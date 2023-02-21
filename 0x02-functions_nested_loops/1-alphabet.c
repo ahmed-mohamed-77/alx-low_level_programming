@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
-* main - Entry point
-*
-* print_alphabet -print all (in lower case)
-* Return:on success
-**/
+ * print_times_table - Prints a multiplication table up to param
+ * @n: The number to be treated
+ *
+ * Return: Number matrix
+ */
 
 void print_alphabet(void)
 {
