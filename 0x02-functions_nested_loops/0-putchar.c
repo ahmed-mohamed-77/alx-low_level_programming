@@ -1,18 +1,14 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
-* main - use putchar function
-* Description  (loop function)
+* main - entry point
+* Description  print
 * Return: 0 (success)
 **/
 
+
 int main(void)
 {
-char i;
-for (i = 'A'; i < 'Z'; i++)
-{
-	putchar(i);
-}
-
+putchar('_putchar\n')
 return (0);
 }
