@@ -3,15 +3,14 @@
 /**
 * main - Entry point
 * Description - print alphabets in lower case
-* Return: 0 (Sucsess)
+* Return: void
 **/
-
-int main(void)
+void print_alpabet(void)
 {
 char i;
 for (i = 'a'; i <= 'z'; i++)
 {
 _putchar(i);
 }
-return (0);
+_putchar('\n');
 }
