@@ -7,10 +7,10 @@
 **/
 void print_alpabet(void)
 {
-char i;
-for (i = 'a'; i <= 'z'; i++)
+char c;
+for (c = 'a'; c <= 'z'; c++)
 {
-_putchar(i);
+_putchar(c);
 }
 _putchar('\n');
 }
