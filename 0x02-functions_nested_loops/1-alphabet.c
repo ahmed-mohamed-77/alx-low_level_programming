@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * print_times_table - Prints a multiplication table up to param
- * @n: The number to be treated
- *
- * Return: Number matrix
+ * print_alphabet - Entry point
+ * Description: a function that prints the alphabet,
+ * in lowecase followed by a new line
+ * Return: void
  */
 
 void print_alphabet(void)
