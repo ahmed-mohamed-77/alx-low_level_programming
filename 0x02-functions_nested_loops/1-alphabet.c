@@ -3,7 +3,7 @@
 /**
 * main - Entry point
 *
-* description - print_alphabet in lower case
+* description - print_alphabet (in lower case)
 * Return:on success
 **/
 
