@@ -3,7 +3,7 @@
 /**
 * main - Entry point
 *
-* Description: A  print_alphabet (in lower case)
+* print_alphabet -print all (in lower case)
 * Return:on success
 **/
 
