@@ -2,8 +2,9 @@
 
 /**
 * main - Entry point
-* description - print alphabets in lower case
-* Return: void
+*
+* description - print_alphabet in lower case
+* Return:on success
 **/
 
 void print_alphabet(void)
