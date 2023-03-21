@@ -1,11 +1,12 @@
 #include <stdio.h>
 
-/*
-* prints the name of the file
-* use the macro (__FILE__) to print the name of the file
-*/
+/**
+ * main - print the name of the file it was compiled from
+ *
+ * Return: the name of the file
+ */
 
-int main(){
+int main(void){
 
     printf("%s\n", __FILE__);
 
